@@ -17,6 +17,9 @@
     "grunt-contrib-watch": "0.2.0rc7",
     "grunt-contrib-jshint": ">= 0.3.0"
   },
+  "scripts": {
+    "test": "grunt jshint"
+  },
   "keywords": [
     "heatmap",
     "heatmaps",
